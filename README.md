@@ -16,3 +16,5 @@
 > - Run `yarn` to install the dependencies.
 > - Run `yarn start` to start the server.
 > - Open the browser and go to `localhost:3000`
+
+> ## Click to see [Live Site](https://clock-date.pages.dev/)
