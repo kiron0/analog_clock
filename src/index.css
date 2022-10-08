@@ -287,3 +287,18 @@ a {
     margin-bottom: 3rem;
   }
 }
+
+@media screen and (max-width: 576px) {
+  .clock__container {
+    height: 90vh;
+    grid-template-rows: 1fr max-content;
+  }
+}
+
+/* For small devices */
+@media screen and (max-width: 350px) {
+  .clock__container {
+    height: 90vh;
+    grid-template-rows: 1fr max-content;
+  }
+}
